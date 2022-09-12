@@ -3,9 +3,6 @@
 
 > 
 >|| [Git Lab](https://kdt-gitlab.elice.io/ai_track/class05/web_project/team02) | [Notion](https://www.notion.so/elice/2-c66bd4fd0b3b4603a36500345f04fd2b) ||
-> 
-> 나만의 포트폴리오를 만들고 다른 사람들에게 공유해 보세요!
-> > <http://kdt-ai5-team02.elicecoding.com>
 
 <br>
 
