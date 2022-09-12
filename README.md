@@ -223,10 +223,3 @@ yarn start
 
 📅 2022.08.22 - 2022.09.02
 
-<br>
-
-
-## Thanks
-
-- frontend 김민성 코치님, backend 박송원 코치님
-- 엘리스, 구글, w3schools, 유튜브, mozilla.org, node.js ....
